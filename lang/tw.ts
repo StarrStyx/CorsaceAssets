@@ -1,5 +1,5 @@
 {
-    "flag": "https://osu.ppy.sh/images/flags/CN.png",
+    "flag": "https://osu.ppy.sh/images/flags/TW.png",
     "ayim": {
         "layout": {
             "mca2018": "2018 MAPPER'S CHOICE AWARDS",
