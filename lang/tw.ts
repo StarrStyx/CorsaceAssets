@@ -3,7 +3,7 @@
     "ayim": {
         "layout": {
             "mca2018": "2018 MAPPER'S CHOICE AWARDS",
-            "days": "<can someone help with this I have no idea how to word this>",
+            "days": "天至投票截止日期",
             "nav": {
                  "standard": "standard",
                 "taiko": "taiko",
@@ -14,7 +14,7 @@
         },
         "index": {
             "homeTitle": "簡介",
-            "home": "<b>A Year in Mapping</b>再度回歸，為你帶來2018 mapping界各種成就。<br> <br> 跟Mapper Choice Awards一樣，我們除了包括4種mode的資訊和統計數據外，今年我們還包括了storyboarding在內！<br> <br> 還有，如果你在2018年曾經rank過一張或以上的圖，我們也有為你寫了幾句評語。<br> <br> 請在左邊選擇任何一個mode開始！"
+            "home": "<b>A Year in Mapping(AYIM)</b>再度回歸，為您帶來過去的這一年裡Mapping界的各種成就。<br><br>與Mapper Choice Awards(MCA)相似，我們收錄了全部4種遊戲模式的資訊和所統計的數據。和往年不一樣的是，今年我們還包括了Storyboarding在內。<br><br>不僅如此，如果您在2018年曾經Rank過一張或以上的圖，為了感謝您的貢獻，我們還為您寫了一小段話。 <br><br> 請從左邊選擇一個遊戲模式的圖標開始瀏覽！ "
         }
     }
 }
